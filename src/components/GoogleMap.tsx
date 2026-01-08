@@ -7,8 +7,6 @@ import {
 } from "@vis.gl/react-google-maps";
 
 export default function GoogleMap() {
-
-    process.env
     const position = { lat: 45.128, lng: -114.762 };
 
     return (
